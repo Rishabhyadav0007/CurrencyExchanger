@@ -15,12 +15,6 @@ CurrencyExchanger is a simple web application that utilizes a currency exchange 
 - User-friendly interface.
 - Real-time exchange rates from a reliable API.
 
-## Demo
-
-Include a GIF or screenshot of your application in action to give users a visual representation of how it works.
-
-![CurrencyExchanger Demo](demo.gif)
-
 ## Installation
 
 To run the CurrencyExchanger locally, follow these steps:
