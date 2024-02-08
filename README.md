@@ -10,7 +10,7 @@ CurrencyExchanger is a simple web application that utilizes a currency exchange 
 
 ## Features
 
-- Currency conversion from one currency to another.
+- Currency conversion from one currency to another. 
 - Support for various currencies.
 - User-friendly interface.
 - Real-time exchange rates from a reliable API.
